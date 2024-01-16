@@ -36,3 +36,21 @@ A simple Python-based sticky notes application using Tkinter.
 1. Clone the repository:
    ```bash
    git clone https://github.com/ithubeg/sticky-notes-app.git
+
+1. Navigate to the project directory:
+```bash
+cd sticky-notes-app
+```
+2. Run the app:
+
+```bash
+python notes.pyw
+```
+
+### Dependencies
+Python 3.x
+Tkinter library (usually included in standard Python installations)
+Screenshots
+
+###License
+This project is licensed under the MIT License.
