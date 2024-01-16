@@ -38,14 +38,13 @@ A simple Python-based sticky notes application using Tkinter.
    git clone https://github.com/ithubeg/sticky-notes-app.git
 
 2. Navigate to the project directory:
-```bash
-cd sticky-notes-app
-```
+   ```bash
+   cd sticky-notes-app
+
 3. Run the app:
 
-```bash
-python notes.pyw
-```
+   ```bash
+   python notes.pyw
 
 ### Dependencies
 Python 3.x
