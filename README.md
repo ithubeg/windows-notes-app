@@ -1,7 +1,7 @@
-# windows-notes-app
-# Sticky Notes App
+# Open Desk Notes
+## Free Open source desktop Notes App
 
-A simple Python-based sticky notes application using Tkinter.
+A simple Python-based Desk notes side panel app using Tkinter.
 
 ## Features
 
